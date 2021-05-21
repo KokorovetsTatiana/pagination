@@ -1,4 +1,4 @@
-const API_KEY = '4330ebfabc654a6992c2aa792f3173a3';
+const API_KEY = 'e716f8e9f4f24672a7f4cad11d604d9d';
 const BASE_URL = 'https://newsapi.org/v2';
 const options = {
   headers: {
